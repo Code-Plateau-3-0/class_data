@@ -9,4 +9,4 @@
 
 ## About CLASS DATA
 
-Class Data is a basic Laravel CRUD application that holds data of CODE PLATEAU students.
+Class Data is a basic Laravel CRUD application that holds data of CODE PLATEAU 3.0 students.
